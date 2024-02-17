@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<properties>
+    <property name="first-element" type="content-block" mandatory="true">
+        <meta>
+            <title lang="en">Title</title>
+            <title lang="de">Titel</title>
+        </meta>
+        <content>
+            <value>Something</value>
+        </content>
+        
+    </property>
+
+    <property name="second-element" type="content-block" mandatory="true">
+        <meta>
+            <title lang="en">Title</title>
+            <title lang="de">Titel</title>
+        </meta>
+        <content>
+            <value>Something</value>
+        </content>
+    </property>
+
+    <property name="third-element" type="content-block">
+        <meta>
+            <title lang="en">Title</title>
+            <title lang="de">Titel</title>
+        </meta>
+        <content>
+            <value>Something</value>
+        </content>
+    </property>
+
+</properties>
